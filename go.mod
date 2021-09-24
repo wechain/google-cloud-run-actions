@@ -1,4 +1,4 @@
-module github/wechain/cloud-run-actions
+module github/wechain/google-cloud-run-actions
 
 go 1.15
 
