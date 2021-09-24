@@ -7,6 +7,6 @@ COPY . .
 RUN go mod download
 RUN go build -o main .
 
-EXPOSE $PORT
+EXPOSE 80
 
 CMD [ "./main" ]
