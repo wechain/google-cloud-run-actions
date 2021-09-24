@@ -1,4 +1,4 @@
-module github/leozz37/cloud-run-actions-example
+module github/wechain/cloud-run-actions
 
 go 1.15
 
